@@ -1,0 +1,8 @@
+C:\Users\SV\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\SV\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\SV\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\E-Mail.csprojResolveAssemblyReference.cache
+C:\Users\SV\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\SV\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\SV\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\E-Mail.csproj.GenerateResource.Cache
+C:\Users\SV\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\SV\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb

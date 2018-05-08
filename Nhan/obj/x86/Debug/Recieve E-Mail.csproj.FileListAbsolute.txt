@@ -1,0 +1,4 @@
+C:\Users\SV\Desktop\WindowsFormsApplication5\Nhan\obj\x86\Debug\Nhan.exe
+C:\Users\SV\Desktop\WindowsFormsApplication5\Nhan\obj\x86\Debug\Nhan.pdb
+C:\Users\SV\Desktop\WindowsFormsApplication5\Nhan\bin\Debug\Nhan.exe
+C:\Users\SV\Desktop\WindowsFormsApplication5\Nhan\bin\Debug\Nhan.pdb
